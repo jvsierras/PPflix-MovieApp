@@ -1,4 +1,4 @@
-const API_KEY = `04ec85a684eae5ff819855d99f118b3b`
+const API_KEY = `d21e8e083a7d1c35c07661864ac1b3f0`
 const image_path = `https://image.tmdb.org/t/p/w1280`
 
 // - API key will only be available for this video since I'll delete it right after that but you can go to https://www.themoviedb.org/ , create an account and get a key for free.
